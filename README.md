@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BrShrestha
-- 👀 I’m interested in ... new techonlogy
+- 👀 I’m interested in ... TECH
 - 🌱 I’m currently learning ... Cypress
 - 💞️ I’m looking to collaborate on ... QA
 - 📫 How to reach me ... biman.dyala@gmail.com
